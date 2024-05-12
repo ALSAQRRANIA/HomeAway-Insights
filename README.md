@@ -2,15 +2,6 @@
 ## Project Overview
 HomeAway Insights is a data-driven initiative that combines in-depth analysis and machine learning to pinpoint profitable real estate investment opportunities and to understand vacation-oriented market trends. Our project leverages historical data, tourist activity, economic indicators, and housing statistics to deliver strategic insights for real estate investors and companies like *Prello*.
 
-## What's Inside the repository?
-* In-depth data analysis of tourist establishments, seasonal home occupancy rates, and salary metrics.  
-* Machine learning models that predict real estate profitability and classify municipalities based on second home proportions.
-* A data dashboard visualizing key market indicators for easy interpretation.
-
-### Analytics hypotheses & Objectives Overview
-* Hypothesis 1: High tourist activity in towns correlates with increased rental yields for second homes.  
-* Hypothesis 2: Municipalities with higher average income levels are likely to experience stable real estate appreciation.  
-* Hypothesis 3: A higher density of second homes in a municipality suggests a vacation-oriented market orientation.
 
 ### Data Analysis, Visualization, and dashboarding 
 * Interactive visualizations to explore the distribution and key metrics of municipalities.
