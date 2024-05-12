@@ -1,7 +1,10 @@
-![3b114b65-107d-4af1-b373-17d1d766c850](https://github.com/zain-codes/HomeAway-Insights/assets/129910179/78b53811-a3af-4bac-b584-fcb2fa9bec2b)
-## Project Overview
-HomeAway Insights is a data-driven initiative that combines in-depth analysis and machine learning to pinpoint profitable real estate investment opportunities and to understand vacation-oriented market trends. Our project leverages historical data, tourist activity, economic indicators, and housing statistics to deliver strategic insights for real estate investors and companies like *Prello*.
+# HomeAway Insights Project
+HomeAway Insights | Saudi Digital Academy (SDA) & Le Wagon Data Analysis Bootcamp using Tableau.
 
+![3b114b65-107d-4af1-b373-17d1d766c850](https://github.com/zain-codes/HomeAway-Insights/assets/129910179/78b53811-a3af-4bac-b584-fcb2fa9bec2b)
+
+## Project Overview
+HomeAway Insights is a data-driven initiative that combines in-depth analysis and machine learning to pinpoint profitable real estate investment opportunities and to understand vacation-oriented market trends. Our project leverages historical data, tourist activity, economic indicators, and housing statistics to deliver strategic insights for real estate investors and companies like Prello.
 
 ### Data Analysis, Visualization, and dashboarding 
 * Interactive visualizations to explore the distribution and key metrics of municipalities.
@@ -12,10 +15,11 @@ HomeAway Insights is a data-driven initiative that combines in-depth analysis an
 
 ### Machine Learning Implementation
 
-* Market Classification: For Hypotheses 2, use of classification algorithms to identify markets with a demand for vacation homes and to assess the impact of income levels on market dynamics.
-![LeagonpresentationvideoML2-ezgif com-optimize](https://github.com/zain-codes/HomeAway-Insights/assets/129910179/39c1d503-41c0-49aa-bca4-5d3824cf98cf)
-* Profitability Prediction: For Hypothesis 1, the model forecasts potential real estate investment returns based on tourist activities.
+* Market Classification: Using classification algorithms to identify markets with a demand for vacation homes and to assess the impact of income levels on market dynamics.
   
+![LeagonpresentationvideoML2-ezgif com-optimize](https://github.com/zain-codes/HomeAway-Insights/assets/129910179/39c1d503-41c0-49aa-bca4-5d3824cf98cf)
+* Profitability Prediction: The model forecasts potential real estate investment returns based on tourist activities.
+
 
 ### Authorship
 Developed by:  
