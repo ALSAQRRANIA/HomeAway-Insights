@@ -16,23 +16,6 @@ HomeAway Insights is a data-driven initiative that combines in-depth analysis an
 ![LeagonpresentationvideoML2-ezgif com-optimize](https://github.com/zain-codes/HomeAway-Insights/assets/129910179/39c1d503-41c0-49aa-bca4-5d3824cf98cf)
 * Profitability Prediction: For Hypothesis 1, the model forecasts potential real estate investment returns based on tourist activities.
   
-### Repository Structure
-* /datasets: Contains all datasets used for the analyses.  
-* /scripts: Includes Python scripts for machine learning model training.  
-* /models: Features the serialized machine learning models ready for prediction tasks.  
-* /dashboard: Holds interactive charts and dashboards for data representation.  
-* /docs: Documentation and project reports for detailed understanding.  
-
-### Usage
-* *Investors*: Review the /visualizations directory to identify high-potential investment locations.  
-* *Data Analysts and Scientists*: The /scripts and /models directories will be key for understanding the data processing and analytical framework.  
-* *General Public*: Access the summaries and insights provided in the /docs directory for a non-technical overview of our findings.  
-
-### Contributions
-Your expertise is invaluable to us. Feel free to suggest enhancements, report issues, or contribute to the codebase by forking the repository and submitting a pull request.
-
-### Feedback
-We encourage you to provide feedback or ask questions by opening an issue in the repository. All constructive insights are appreciated and will be considered for future iterations of the project.
 
 ### Authorship
 Developed by:  
